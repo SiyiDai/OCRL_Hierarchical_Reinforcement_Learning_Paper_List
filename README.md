@@ -1,6 +1,8 @@
 # OCRL_Hierarchical_Reinforcement_Learning_Paper_List
 
 ## APPROACHES FOR HIERARCHICAL REINFORCEMENT LEARNING
+
+![1](taxonomy_HRL_approaches.png)
 by [Hierarchical Reinforcement Learning: A Comprehensive Survey](https://github.com/SiyiDai/OCRL_Hierarchical_Reinforcement_Learning_Paper_List/blob/master/Hierarchical_Reinforcement_Learning:%20A_Comprehensive_Survey.pdf)
 
 * Approaches with subtask discovery or without it. 
