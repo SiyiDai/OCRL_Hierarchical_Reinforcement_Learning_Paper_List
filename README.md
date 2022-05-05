@@ -1,6 +1,7 @@
 # OCRL_Hierarchical_Reinforcement_Learning_Paper_List
 
 ## Paper List Draft
+![1](taxonomy_HRL_approaches.png)
 
 [Dec 6 2021] [Hierarchical Reinforcement Learning with Timed Subgoals (HiTS)](https://github.com/SiyiDai/OCRL_Hierarchical_Reinforcement_Learning_Paper_List/blob/master/Hierarchical_Reinforcement_Learning_With_Timed_Subgoals.pdf)   + [Video](https://www.youtube.com/watch?v=JkPaI3uZU6c)
 
