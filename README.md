@@ -51,9 +51,11 @@ subtasks may be handcrafted or discovered from scratch on multiple tasks.
     [NIPS 1997] [cited by 922] [Reinforcement Learning with Hierarchies of Machines](https://proceedings.neurips.cc/paper/1997/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf) + [video](https://www.youtube.com/watch?v=rVhb6f6G-1M&list=PLHD22PKARkdR5qnXSwYOzZY4VjIDvZWan&index=7) + [intro1](https://zhuanlan.zhihu.com/p/267524544) + [intro2](https://zhuanlan.zhihu.com/p/191526908) + [intro3](https://zhuanlan.zhihu.com/p/39268717)
 
 
-4. **MAXQ** [multi-level control] [call-and-return]
+4. **MAXQ** and **MAXQ Value Function Decomposition** [multi-level control] [call-and-return]
 
     [ICML 1998] [cited by 416] [The MAXQ Method for Hierarchical Reinforcement Learning](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.9.313&rep=rep1&type=pdf) + [video](https://www.youtube.com/watch?v=4mmW0kYmK3I&list=PLHD22PKARkdR5qnXSwYOzZY4VjIDvZWan&index=7) + [intro1](https://zhuanlan.zhihu.com/p/267524544) + [intro2](https://zhuanlan.zhihu.com/p/191526908)
+    
+    [Journal of artificial intelligence research, 2000] [cited by 1791] [Hierarchical Reinforcement Learning with the MAXQ Value Function Decomposition](https://web.archive.org/web/20110401020341id_/http://vorlon.case.edu/~sray/mlrg/maxq_dietterich.jair00.pdf) + [video](https://www.youtube.com/watch?v=1iACStiJQBs)
 
 
 -------------------
