@@ -35,7 +35,7 @@ policy, subtasks, or other knowledge of an HRL agent across multiple tasks, wher
 subtasks may be handcrafted or discovered from scratch on multiple tasks.
 
 
-# Presentation Plan(update 14 May): Single Agent Hierarchical Reinforcement Learning with Policy Tree Approaches
+# Presentation Plan (update 14 May): Single Agent Hierarchical Reinforcement Learning with Policy Tree Approaches
 
 1. **Options** (MDPs, SMDPs, option value function) [multi-level control]
 
