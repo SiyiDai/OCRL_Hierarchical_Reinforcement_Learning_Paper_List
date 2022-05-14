@@ -34,6 +34,28 @@ ferHRL approaches broadly address the challenge of learning to transfer the hier
 policy, subtasks, or other knowledge of an HRL agent across multiple tasks, where the
 subtasks may be handcrafted or discovered from scratch on multiple tasks.
 
+
+# Presentation Plan(update 14 May): Single Agent Hierarchical Reinforcement Learning with Policy Tree Approaches
+
+1. **Options** (MDPs, SMDPs, option value function) [multi-level control]
+
+    [AI 1999] [cited by 3296] [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://people.cs.umass.edu/~barto/courses/cs687/Sutton-Precup-Singh-AIJ99.pdf) + [Video1](https://rl-vs.github.io/rlvs2021/hierarchical.html) + [video2](https://www.youtube.com/watch?v=e8b0yC6COJ8) + [intro](https://zhuanlan.zhihu.com/p/58895331) + [intro](https://zhuanlan.zhihu.com/p/432645586)
+
+
+2. **Option-Critic = Options + Actor-Critic** [multi-level control]
+
+    [AAAI 2017] [cited by 766] [The Option-Critic Architecture](https://ojs.aaai.org/index.php/AAAI/article/view/10916) + [Video](https://www.youtube.com/watch?v=xVkh5-aIvpg) + [intro1](https://zhuanlan.zhihu.com/p/217811126) + [intro2](https://zhuanlan.zhihu.com/p/87910900) + [intro3](https://zhuanlan.zhihu.com/p/47051292) + [intro4](https://zhuanlan.zhihu.com/p/430471198)
+
+3. **HAM** [multi-level control] [call-and-return]
+
+    [NIPS 1997] [cited by 922] [Reinforcement Learning with Hierarchies of Machines](https://proceedings.neurips.cc/paper/1997/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf) + [video](https://www.youtube.com/watch?v=rVhb6f6G-1M&list=PLHD22PKARkdR5qnXSwYOzZY4VjIDvZWan&index=7) + [intro1](https://zhuanlan.zhihu.com/p/267524544) + [intro2](https://zhuanlan.zhihu.com/p/191526908) + [intro3](https://zhuanlan.zhihu.com/p/39268717)
+
+
+4. **MAXQ** [multi-level control] [call-and-return]
+
+    [ICML 1998] [cited by 416] [The MAXQ Method for Hierarchical Reinforcement Learning](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.9.313&rep=rep1&type=pdf) + [video](https://www.youtube.com/watch?v=4mmW0kYmK3I&list=PLHD22PKARkdR5qnXSwYOzZY4VjIDvZWan&index=7) + [intro1](https://zhuanlan.zhihu.com/p/267524544) + [intro2](https://zhuanlan.zhihu.com/p/191526908)
+
+
 -------------------
 
 # Presentation Plan: Single Agent Hierarchical Reinforcement Learning with Subtask Discovery
